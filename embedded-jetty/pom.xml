@@ -22,7 +22,7 @@
         <version>1.0-SNAPSHOT</version>
     </parent>
     <properties>
-        <exec.mainClass>servlets.test.jetty.Main</exec.mainClass>
+        <exec.mainClass>servlets.jetty.Main</exec.mainClass>
     </properties>
     <version>1.0-SNAPSHOT</version>
 </project>
